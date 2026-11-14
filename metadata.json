@@ -1,0 +1,6 @@
+{
+  "name": "Nightbite",
+  "description": "Nocturnal culinary discovery, underground pop-ups, and dish-level micro-reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
